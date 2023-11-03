@@ -47,8 +47,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TeamInflex")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/InflexSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Koku_Updates")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/KokuSupportGroup")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -86,40 +86,40 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "START_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "PING_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 PLAYLIST_IMG_URL = getenv(
-    "PLAYLIST_IMG_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "PLAYLIST_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 STATS_IMG_URL = getenv(
-    "STATS_IMG_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "STATS_IMG_URL", "https://telegra.ph/file/01b9845e22a5205574fed.jpg"
 )
 TELEGRAM_AUDIO_URL = getenv(
-    "TELEGRAM_AUDIO_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "TELEGRAM_AUDIO_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 TELEGRAM_VIDEO_URL = getenv(
-    "TELEGRAM_VIDEO_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "TELEGRAM_VIDEO_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 STREAM_IMG_URL = getenv(
-    "STREAM_IMG_URL", "https://te.legra.ph/file/693694b0d94afa372ca5a.jpg"
+    "STREAM_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 SOUNCLOUD_IMG_URL = getenv(
-    "SOUNCLOUD_IMG_URL", "https://te.legra.ph/file/f72ea4bd955c418c724e1.jpg"
+    "SOUNCLOUD_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 YOUTUBE_IMG_URL = getenv(
-    "YOUTUBE_IMG_URL", "https://te.legra.ph/file/693694b0d94afa372ca5a.jpg"
+    "YOUTUBE_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 SPOTIFY_ARTIST_IMG_URL = getenv(
-    "SPOTIFY_ARTIST_IMG_URL", "https://te.legra.ph/file/c3682dc6fd740b2dac969.jpg"
+    "SPOTIFY_ARTIST_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 SPOTIFY_ALBUM_IMG_URL = getenv(
-    "SPOTIFY_ALBUM_IMG_URL", "https://te.legra.ph/file/c3682dc6fd740b2dac969.jpg"
+    "SPOTIFY_ALBUM_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
-    "SPOTIFY_PLAYLIST_IMG_URL", "https://te.legra.ph/file/c3682dc6fd740b2dac969.jpg"
+    "SPOTIFY_PLAYLIST_IMG_URL", "https://telegra.ph/file/1f0358c114b0073ddea98.jpg"
 )
 
 
